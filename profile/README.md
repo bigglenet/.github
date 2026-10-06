@@ -1,4 +1,4 @@
-# 🌐 Bigglenet
+# bigglenet
 
 A decentralized networking protocol built to replace the legacy internet stack.
 
