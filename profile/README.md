@@ -1,4 +1,7 @@
-# bigglenet
+<div align="center">
+  <img src="https://github.com/bigglenet/bigglenet/blob/main/brand/icon-app.png" height="150px" />
+  <h1>bigglenet</h1>
+</div>
 
 A decentralized networking protocol built to replace the legacy internet stack.
 
